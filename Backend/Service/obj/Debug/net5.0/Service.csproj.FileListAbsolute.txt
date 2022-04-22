@@ -1,0 +1,17 @@
+C:\Users\malja\OneDrive\Documenten\DTJ_Website\Backend\Service\bin\Debug\net5.0\Service.deps.json
+C:\Users\malja\OneDrive\Documenten\DTJ_Website\Backend\Service\bin\Debug\net5.0\Service.dll
+C:\Users\malja\OneDrive\Documenten\DTJ_Website\Backend\Service\bin\Debug\net5.0\ref\Service.dll
+C:\Users\malja\OneDrive\Documenten\DTJ_Website\Backend\Service\bin\Debug\net5.0\Service.pdb
+C:\Users\malja\OneDrive\Documenten\DTJ_Website\Backend\Service\bin\Debug\net5.0\DAL.dll
+C:\Users\malja\OneDrive\Documenten\DTJ_Website\Backend\Service\bin\Debug\net5.0\Model.dll
+C:\Users\malja\OneDrive\Documenten\DTJ_Website\Backend\Service\bin\Debug\net5.0\DAL.pdb
+C:\Users\malja\OneDrive\Documenten\DTJ_Website\Backend\Service\bin\Debug\net5.0\Model.pdb
+C:\Users\malja\OneDrive\Documenten\DTJ_Website\Backend\Service\obj\Debug\net5.0\Service.csprojAssemblyReference.cache
+C:\Users\malja\OneDrive\Documenten\DTJ_Website\Backend\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malja\OneDrive\Documenten\DTJ_Website\Backend\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+C:\Users\malja\OneDrive\Documenten\DTJ_Website\Backend\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+C:\Users\malja\OneDrive\Documenten\DTJ_Website\Backend\Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\malja\OneDrive\Documenten\DTJ_Website\Backend\Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+C:\Users\malja\OneDrive\Documenten\DTJ_Website\Backend\Service\obj\Debug\net5.0\Service.dll
+C:\Users\malja\OneDrive\Documenten\DTJ_Website\Backend\Service\obj\Debug\net5.0\ref\Service.dll
+C:\Users\malja\OneDrive\Documenten\DTJ_Website\Backend\Service\obj\Debug\net5.0\Service.pdb
